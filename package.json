@@ -1,0 +1,7 @@
+{
+  "name": "gsn-funnel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Mihal <david@dmihal.com>",
+  "license": "MIT"
+}
