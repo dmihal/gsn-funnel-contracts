@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "David Mihal <david@dmihal.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.0-rc.1",
+    "@openzeppelin/gsn-helpers": "^0.2.3"
+  }
 }
